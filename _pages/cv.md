@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Software Engineering, Northwestern Polytechnical University, 2019
+* M.S. in Biomedical Engineering, Fudan University, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2019: Research Intern
+  * Megvii
+  * IC/FPGA
+  * Leader: Dr. Zhou Shuchang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2022: Research Intern
+  * SenseTime
+  * ARFace
   
 Skills
 ======
